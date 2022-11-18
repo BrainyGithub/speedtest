@@ -1,0 +1,6 @@
+# pip install speedtest-cli
+
+import speedtest as sp
+
+# todo write a script that tests network download, upload and ping speed
+# todo export the results to a .csv and run the script every minute
